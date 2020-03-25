@@ -1,0 +1,5 @@
+data:
+  env: config-single-dev
+  user:
+    username: eureka-single-user
+    password: 20200325
